@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Compiled artifacts and caches
+*.exe
+*.dll
+*.pdb
+*.obj
+*.ipch
+*.db
+*.tlog
+*.lastbuildstate
+*.ilk
+*.idb
+*.vsidx
+*.cache
